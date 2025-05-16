@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /CreativeBoost/backend/
+RewriteRule ^register\.php$ register.php [L]
